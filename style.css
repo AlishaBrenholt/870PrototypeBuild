@@ -1,0 +1,33 @@
+.instruction-box {
+	width: 750px;
+
+	background-color: rgb(255, 255, 255);
+
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+	padding: 5px 10px 10px 10px;
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+	margin-top: 5vh;
+
+	margin-bottom: 5vh;
+
+	font-family: arial;
+
+	color: #222f6e;
+
+	border-radius: 15px;
+}
+
+.instruction-title {
+	text-align: center;
+
+	font-weight: bold;
+}
+
+.instruction-text {
+	padding: 0 20px;
+}
